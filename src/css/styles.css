@@ -82,6 +82,7 @@
 }
 
 .loader {
+  display: block;
   margin: 40px auto;
   font-size: 6px;
   position: relative;
